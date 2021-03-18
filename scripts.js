@@ -20,19 +20,19 @@
 
 //Task 2
 
-let tongueTwister = "How much wood would a woodchuck chuck, if the woodchuck could chuck wood?";
+// let tongueTwister = "How much wood would a woodchuck chuck, if the woodchuck could chuck wood?";
 
-console.log(tongueTwister.toLowerCase());
+// console.log(tongueTwister.toLowerCase());
 //Output:
 //"how much wood would a woodchuck chuck, if the woodchuck could chuck wood?"
 
-let pangram = "The quick brown fox jumps over the lazy dog.";
-console.log(pangram.indexOf("fox"));
+// let pangram = "The quick brown fox jumps over the lazy dog.";
+// console.log(pangram.indexOf("fox"));
 //Output:
 //16
 
-let anotherPangram = "The five boxing wizards jump quickly.";
-console.log(anotherPangram.charAt(11));
+// let anotherPangram = "The five boxing wizards jump quickly.";
+// console.log(anotherPangram.charAt(11));
 //Output:
 //x
 
